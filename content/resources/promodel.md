@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4dce67b5-9bc4-4c07-cb1d-7b5cfd531198
 resourcetype: Document
 title: promodel.pdf
 uid: 4b70b307-ce45-e7f3-dbeb-836cef9ac5b2
