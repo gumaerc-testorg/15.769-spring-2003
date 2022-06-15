@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course project, grading, previous
+  topics, and sample project ideas.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: fbd617e5-ece8-7ea9-8ace-4803583b9ba5
 ---
