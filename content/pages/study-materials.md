@@ -1,18 +1,18 @@
 ---
 content_type: page
+description: This section provides a bibliography of study materials for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Study Materials
 uid: da03feef-85b5-750a-36fa-0a4b3c1199cc
 ---
-
 Fine, Charles H. _Clockspeed: Winning Industry Control in the Age of Temporary Advantage._ Perseus Books, 1998.
 
-Hammer, Michael. _The Agenda. _ Crown Business, 2001.
+Hammer, Michael. _The Agenda._ Crown Business, 2001.
 
-Hammer, Michael, and Steven Stanton. _The Reengineering Revolution._ HarperBusiness, 1995.  
-  
+Hammer, Michael, and Steven Stanton. _The Reengineering Revolution._ HarperBusiness, 1995.
+
 Hayes, Robert H., Gary P. Pisano, and David M. Upton. _Strategic Operations: Competing through Capabilities._ Harvard Business School, 1996.
 
 Etienne-Hamilton, E. C. _Operations Strategies for Competitive Advantage: Text and Cases._ Dryden Press, 1994.
