@@ -5,6 +5,7 @@ file: /courses/15-769-operations-strategy-spring-2003/ac3eaddb611f3d3789c8707c36
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: methodology.pdf
 uid: ac3eaddb-611f-3d37-89c8-707c36bb2050
 ---
 Process Redesign Methodology
-

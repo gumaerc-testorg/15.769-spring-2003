@@ -5,6 +5,7 @@ file: /courses/15-769-operations-strategy-spring-2003/4b70b307ce45e7f3dbeb836cef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: promodel.pdf
 uid: 4b70b307-ce45-e7f3-dbeb-836cef9ac5b2
 ---
 Process Modeling
-
