@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and notes from some
+  class sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4dce67b5-9bc4-4c07-cb1d-7b5cfd531198
 ---
@@ -22,8 +27,8 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Operations Strategy ([PDF 1]({{< baseurl >}}/resources/lecture1a))  
-([PDF 2 - 1 MB]({{< baseurl >}}/resources/roadmapwkshp))
+Introduction to Operations Strategy ({{% resource_link 19bde004-db6a-9e2a-4972-0fd6ec06a93f "PDF 1" %}})  
+({{% resource_link a6ee851b-39c7-715d-4047-506fe8d23e06 "PDF 2 - 1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +91,7 @@ Introduction to Clockspeed
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Dynamics/3-DCE ([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture9))
+Supply Chain Dynamics/3-DCE ({{% resource_link 50f8a031-c382-f1ff-c9f0-c1d9bdd4b04a "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +172,7 @@ Operations Measurement & Improvement
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Operations Measurement & Improvement (continued) ([PDF]({{< baseurl >}}/resources/analoghalflifeacct))
+Operations Measurement & Improvement (continued) ({{% resource_link 9eba75d4-612b-f8c0-ffdb-0504c0962c9c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
