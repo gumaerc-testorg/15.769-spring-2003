@@ -3,6 +3,7 @@ content_type: resource
 description: Measuring Operations Performance at Analog Devices (Language of Money
   vs. Language of Physical Operations)
 file: /courses/15-769-operations-strategy-spring-2003/9eba75d4612bf8c0ffdb0504c0962c9c_analoghalflifeacct.pdf
+file_size: 138264
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

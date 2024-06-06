@@ -2,6 +2,7 @@
 content_type: resource
 description: Process Redesign Methodology
 file: /courses/15-769-operations-strategy-spring-2003/ac3eaddb611f3d3789c8707c36bb2050_methodology.pdf
+file_size: 171509
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
