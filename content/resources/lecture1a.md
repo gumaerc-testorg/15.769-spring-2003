@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Manufacturing Strategy Concepts
-file: /courses/15-769-operations-strategy-spring-2003/19bde004db6a9e2a49720fd6ec06a93f_lecture1a.pdf
+file: /ol-ocw-studio-app/courses/15-769-operations-strategy-spring-2003/19bde004db6a9e2a49720fd6ec06a93f_lecture1a.pdf
 file_size: 328051
 file_type: application/pdf
 learning_resource_types:
