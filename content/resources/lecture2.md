@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Process Concepts
-file: /ol-ocw-studio-app/courses/15-769-operations-strategy-spring-2003/038c906aacd9ea075997320ed8932ee9_lecture2.pdf
+file: /courses/15-769-operations-strategy-spring-2003/038c906aacd9ea075997320ed8932ee9_lecture2.pdf
 file_size: 483050
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Value Chain Strategy: Clockspeed & 3-D Concurrent Engineering'
-file: /ol-ocw-studio-app/courses/15-769-operations-strategy-spring-2003/50f8a031c382f1ffc9f0c1d9bdd4b04a_lecture9.pdf
+file: /courses/15-769-operations-strategy-spring-2003/50f8a031c382f1ffc9f0c1d9bdd4b04a_lecture9.pdf
 file_size: 1302205
 file_type: application/pdf
 learning_resource_types:
